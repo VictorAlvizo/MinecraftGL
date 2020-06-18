@@ -6,8 +6,8 @@ are not spot on. This program also employs multithreading.
 Play window is resizeable and information of your moniter 
 will be displayed as well.
 
-This project is open source, code can be found here: 
-https://github.com/VictorAlvizo/MinecraftGL
+Program can be downloaded here: 
+https://www.mediafire.com/file/le71z5kzfeagcax/MinecraftGL.zip/file
 
 <!> CONTROLS <!>
 W - Move Foward
