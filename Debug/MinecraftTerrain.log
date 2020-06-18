@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\Alvizo\Desktop\MinecraftTerrain\MinecraftTerrain\src\main.cpp(163,46): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Alvizo\Desktop\MinecraftTerrain\MinecraftTerrain\src\main.cpp(232,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alvizo\Desktop\MinecraftTerrain\MinecraftTerrain\src\main.cpp(483,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alvizo\Desktop\MinecraftTerrain\MinecraftTerrain\src\main.cpp(489,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alvizo\Desktop\MinecraftTerrain\MinecraftTerrain\src\main.cpp(496,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alvizo\Desktop\MinecraftTerrain\MinecraftTerrain\src\main.cpp(502,21): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  MinecraftTerrain.vcxproj -> C:\Users\Alvizo\Desktop\MinecraftTerrain\Debug\MinecraftTerrain.exe
