@@ -27,3 +27,5 @@ Left Mouse Button - Place Block
 Right Mouse Button - Remove Block
 
 Esc - Close Window
+
+FORGOT TO INCLUDE SOURCE CODE FOR BLOCK CLASS
